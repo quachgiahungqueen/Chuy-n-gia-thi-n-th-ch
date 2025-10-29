@@ -1,0 +1,5 @@
+{
+  "name": "AI Meteorite and Gemstone Expert",
+  "description": "An intelligent AI application that analyzes images to distinguish between meteorites, gemstones, and common rocks, providing in-depth analysis, value estimation, and the story behind their worth, all in Vietnamese.",
+  "requestFramePermissions": []
+}
